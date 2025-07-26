@@ -472,5 +472,7 @@ print(result)
 
 🤝 **Contributing**
 
-Feel free to fork this repo and add more beginner-friendly exercises or suggest improvements to existing ones. Collaboration is welcome!
+Feel free to fork this repo and add more beginner-friendly exercises or suggest improvements to existing ones. 
+
+Collaboration is welcome!
 
