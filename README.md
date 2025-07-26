@@ -471,5 +471,6 @@ print(result)
 <img width="349" height="55" alt="image" src="https://github.com/user-attachments/assets/a92f9b0c-5977-45cb-99b5-5d66fb8d2b58" />
 
 🤝 **Contributing**
+
 Feel free to fork this repo and add more beginner-friendly exercises or suggest improvements to existing ones. Collaboration is welcome!
 
