@@ -1,8 +1,10 @@
-# 🐍 Python Practice Exercises for Beginners
+# 🐍 [Python] How Can Beginners Strengthen Problem-Solving Skills? - Programming Education
+
+<img width="1111" height="528" alt="image" src="https://github.com/user-attachments/assets/47221320-425c-4aab-899b-2630e67dd953" />
 
 Welcome to this Python practice project! This repository is designed to help beginners strengthen their problem-solving skills through a series of short, practical exercises. You'll learn to apply Python fundamentals such as data types, functions, loops, string manipulation, and basic data structures (lists, sets, dictionaries) in real-world scenarios.
 
-🎯 **Project Goals**
+## 🎯 **Project Goals**
 
 By working through these exercises, you'll be able to:
 
@@ -18,7 +20,7 @@ If you get stuck or have any questions, feel free to reach out!
 
 Happy coding 🎶
 
-🧠 **Problem-Solving Mindset (Step-by-Step Guide)**
+## 🧠 **Problem-Solving Mindset (Step-by-Step Guide)**
 
 Each exercise follows a logical approach that you can use when solving any Python problem:
 
@@ -55,9 +57,9 @@ Each exercise follows a logical approach that you can use when solving any Pytho
 9. Refactor if Needed
 → Improve readability, fix bugs, or optimize performance
 
-# 📚 [**Exercises Overview**](https://colab.research.google.com/drive/1dDV0jLbzYygT1BaeYsk6dmVe5R3QIfmr?usp=sharing)
+## 📚 [**Exercises Overview**](https://colab.research.google.com/drive/1dDV0jLbzYygT1BaeYsk6dmVe5R3QIfmr?usp=sharing)
 
-## Exercise 1: Write a function count_vowels(s) that counts the number of vowels (a, e, i, o, u) in a given string 'This Is Just A String That We Use To Practice'
+### Exercise 1: Write a function count_vowels(s) that counts the number of vowels (a, e, i, o, u) in a given string 'This Is Just A String That We Use To Practice'
 
 Objetives: Practice Problem Solving, String Manipulating, Loop, Define Function
 
@@ -81,7 +83,7 @@ print("Number of vowels:", count_vowels('This Is Just A String That We Use To Pr
 
 <img width="393" height="65" alt="image" src="https://github.com/user-attachments/assets/645eccb9-3718-4d5c-b99e-dc7f9b175bed" />
 
-## Exercise 2a: You are managing a small library system and have a list of books. Each book has a title, author, and whether it is currently borrowed. Your task is to organize and analyze the data.
+### Exercise 2a: You are managing a small library system and have a list of books. Each book has a title, author, and whether it is currently borrowed. Your task is to organize and analyze the data.
 
 Input: A list of dictionaries, where each dictionary contains information about a book:
 
@@ -118,7 +120,7 @@ print(check_book_status("A", books))
 
 <img width="451" height="90" alt="image" src="https://github.com/user-attachments/assets/7d74f8f3-0c0a-4fda-a6de-eb4190387917" />
 
-## Exercise 2b: Count Borrowed and Available Books from books in previous exercise.
+### Exercise 2b: Count Borrowed and Available Books from books in previous exercise.
 
 * Code
 
@@ -152,7 +154,7 @@ print(result)  # Output: {'borrowed': 3, 'available': 2}
 
 <img width="516" height="56" alt="image" src="https://github.com/user-attachments/assets/ac24ccfd-1500-49c5-8ee0-d5ed7f1f89f6" />
 
-## Exercise 2c: Group Books by Author.
+### Exercise 2c: Group Books by Author.
 
 * Code
 
@@ -188,7 +190,7 @@ print(result)
 
 <img width="1068" height="77" alt="image" src="https://github.com/user-attachments/assets/879fa540-cb30-4639-971b-99fe37b1e1e2" />
 
-## Exercise 3: Get the first name of input full name.
+### Exercise 3: Get the first name of input full name.
 
 Input: name = Nguyễn Văn An
 
@@ -225,7 +227,7 @@ print(process_name("an"))
 
 <img width="627" height="100" alt="image" src="https://github.com/user-attachments/assets/ec5fe2d3-8775-45ea-a597-4bf59f4ab49d" />
 
-## Exercise 4: Count Character Occurrences.
+### Exercise 4: Count Character Occurrences.
 
 Objectives: Practice Problem Solving, String & List manipulating, Loops, Define functions
 
@@ -265,7 +267,7 @@ print(result)
 
 <img width="757" height="63" alt="image" src="https://github.com/user-attachments/assets/be859bfe-a083-4081-954d-5a83855b8404" />
 
-## Exercise 5: Anna is submitting a requirement on a platform. Howerver, there are limitations about the number of words and number of characters for the submission. Particularly, the number of world should be under 50 words, and number of character should be under 200 characters. characters don't include special characters as '
+### Exercise 5: Anna is submitting a requirement on a platform. Howerver, there are limitations about the number of words and number of characters for the submission. Particularly, the number of world should be under 50 words, and number of character should be under 200 characters. characters don't include special characters as '
 
 Objective: Problem Solving, Loop, Function, List, Set, Dictionary, Define Function.
 
@@ -308,7 +310,7 @@ def check_submission(text):
 
 <img width="910" height="267" alt="image" src="https://github.com/user-attachments/assets/9585ad1b-9646-4727-a6a7-5471fcf0fabd" />
 
-## Exercise 6a: Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
+### Exercise 6a: Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
 
 Sample Input [2,3,6,6,5]
 
@@ -338,7 +340,7 @@ print(result)
 
 <img width="476" height="68" alt="image" src="https://github.com/user-attachments/assets/0bbfa472-a237-45d7-aef4-c6b37c4274ff" />
 
-## Exercise 6b: Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
+### Exercise 6b: Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
 
 The first line contains number of participants. The second line contains an array of integers each separated by a space.
 
@@ -371,7 +373,7 @@ find_runner_up_score()
 
 <img width="649" height="107" alt="image" src="https://github.com/user-attachments/assets/17c8bec0-671c-4f17-88f1-3142cf3b7d6f" />
 
-## Exercise 7: In this challenge, the user enters a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
+### Exercise 7: In this challenge, the user enters a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
 
 NOTE: String letters are case-sensitive.
 
@@ -402,7 +404,7 @@ print(result)
 
 <img width="385" height="68" alt="image" src="https://github.com/user-attachments/assets/d90f632a-0870-4fcb-9660-475699b6af9e" />
 
-## Exercise 8: Write a function count_character(s, char) that takes a string s and a character char as input and returns the number of times char appears in s.
+### Exercise 8: Write a function count_character(s, char) that takes a string s and a character char as input and returns the number of times char appears in s.
 
 Sample Input: "Programming is fun", "m"
 
@@ -427,7 +429,7 @@ print(result)
 
 <img width="463" height="63" alt="image" src="https://github.com/user-attachments/assets/0205e085-7034-4e73-a2d2-92fe8b0179e3" />
 
-## Exercise 9: Write a function is_palindrome(s) that checks if a given string s is a palindrome (reads the same backward as forward), ignoring case and spaces.
+### Exercise 9: Write a function is_palindrome(s) that checks if a given string s is a palindrome (reads the same backward as forward), ignoring case and spaces.
 
 Sample Input: "Racecar"
 
@@ -450,7 +452,7 @@ print(is_palindrome(input_str))
 
 <img width="418" height="52" alt="image" src="https://github.com/user-attachments/assets/5881578d-3e23-4ce5-9281-15d3510ec309" />
 
-## Exercise 10: Write a function reverse_string(s) that takes a string s as input and returns the reversed string.
+### Exercise 10: Write a function reverse_string(s) that takes a string s as input and returns the reversed string.
 
 Input: "Python"
 
@@ -470,7 +472,7 @@ print(result)
 
 <img width="349" height="55" alt="image" src="https://github.com/user-attachments/assets/a92f9b0c-5977-45cb-99b5-5d66fb8d2b58" />
 
-🤝 **Contributing**
+## 🤝 **Contributing**
 
 Feel free to fork this repo and add more beginner-friendly exercises or suggest improvements to existing ones. 
 
